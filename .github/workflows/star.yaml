@@ -1,13 +1,14 @@
 name: stars
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
+  # pull_request:
+  #   branches:
+  #     - main
   schedule:
-   - cron: "* * * * *"
+    - cron: "* * * * *"
+
 jobs:
   build:
     runs-on: ubuntu-latest
