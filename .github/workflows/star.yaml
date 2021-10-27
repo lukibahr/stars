@@ -33,3 +33,4 @@ jobs:
           author_email: hello@lukasbahr.de
           message: 'added new stars :star:'
           add: 'README.md'
+          push: true
