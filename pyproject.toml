@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "starred"
+version = "0.1.0"
+description = ""
+authors = ["Lukas Bahr <hello@lukasbahr.de>"]
+
+[tool.poetry.dependencies]
+python = "*"
+starred = "*"
