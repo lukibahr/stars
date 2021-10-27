@@ -26,3 +26,10 @@ jobs:
       - name: run starred # run the run.py to get the latest data
         run: |
           starred --username lukibahr --sort > README.md
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: Lukas Bahr
+          author_email: hello@lukasbahr.de
+          message: 'added new stars :star:'
+          add: 'README.md'
