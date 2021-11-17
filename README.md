@@ -148,6 +148,7 @@
 
 ## Shell 
 
+- [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
 - [stefanprodan/kube-tools](https://github.com/stefanprodan/kube-tools) - Kubernetes tools for GitHub Actions CI
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
