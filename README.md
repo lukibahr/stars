@@ -149,6 +149,7 @@
 
 ## Shell 
 
+- [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
 - [stefanprodan/kube-tools](https://github.com/stefanprodan/kube-tools) - Kubernetes tools for GitHub Actions CI
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
