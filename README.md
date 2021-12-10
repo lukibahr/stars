@@ -132,6 +132,7 @@
 
 ## Python 
 
+- [dm-drogeriemarkt/nesbi](https://github.com/dm-drogeriemarkt/nesbi) - A python-library which gives the possibility to scan defined network-ranges for network-devices.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
