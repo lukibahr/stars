@@ -49,7 +49,7 @@
 - [ibuildthecloud/gitbacked-controller](https://github.com/ibuildthecloud/gitbacked-controller) - Write controller-runtime based k8s controllers that read/write to git, not k8s
 - [roboll/helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - [rebuy-de/exporter-merger](https://github.com/rebuy-de/exporter-merger) - Merges Prometheus metrics from multiple sources
 - [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [rancher/opni](https://github.com/rancher/opni) - AIOps for Kubernetes
