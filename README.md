@@ -41,7 +41,7 @@
 - [square/certigo](https://github.com/square/certigo) - A utility to examine and validate certificates in a variety of formats
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
-- [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - Build, diff, apply, prune command-line utility for Kubernetes manifests and Kustomize overlays. Powered by Kubernetes server-side apply.
+- [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts.
 - [urfave/negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
 - [jptosso/coraza-waf](https://github.com/jptosso/coraza-waf) - Coraza WAF is a golang modsecurity compatible web application firewall library
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
