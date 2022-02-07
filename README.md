@@ -32,7 +32,7 @@
 
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)
