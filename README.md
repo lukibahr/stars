@@ -49,7 +49,7 @@
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts.
 - [urfave/negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
-- [jptosso/coraza-waf](https://github.com/jptosso/coraza-waf) - Coraza WAF is a golang modsecurity compatible web application firewall library
+- [corazawaf/coraza](https://github.com/corazawaf/coraza) - Coraza WAF is a golang modsecurity compatible web application firewall library
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
