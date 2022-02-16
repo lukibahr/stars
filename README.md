@@ -59,7 +59,7 @@
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - [rebuy-de/exporter-merger](https://github.com/rebuy-de/exporter-merger) - Merges Prometheus metrics from multiple sources
 - [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
-- [rancher/opni](https://github.com/rancher/opni) - AIOps for Kubernetes
+- [rancher/opni](https://github.com/rancher/opni) - Observability + AIOps for Kubernetes
 - [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - timetrace is a simple CLI for tracking your working time.
 - [akhilrex/hammond](https://github.com/akhilrex/hammond) - Self hosted vehicle and expense management system. Like Clarkson, but better
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
