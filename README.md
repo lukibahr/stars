@@ -30,6 +30,7 @@
 
 ## Go 
 
+- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
