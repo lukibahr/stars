@@ -30,6 +30,7 @@
 
 ## Go 
 
+- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
 - [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
@@ -129,6 +130,7 @@
 
 ## Others 
 
+- [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 - [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
