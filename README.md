@@ -173,7 +173,7 @@
 - [didier-durand/microservices-on-cloud-kubernetes](https://github.com/didier-durand/microservices-on-cloud-kubernetes) - Microservices demo application on cloud-hosted Kubernetes cluster
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [kubermatic/kubermatic-installer](https://github.com/kubermatic/kubermatic-installer) - Installation instructions for setting up a kubermatic seed cluster
-- [thockin/micro-demos](https://github.com/thockin/micro-demos) - Demo automation
+- [thockin/micro-demos](https://github.com/thockin/micro-demos) - Scripted automation for live CLI demos
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
 
 ## TypeScript 
