@@ -152,6 +152,7 @@
 
 ## Python 
 
+- [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [dm-drogeriemarkt/nesbi](https://github.com/dm-drogeriemarkt/nesbi) - A python-library which gives the possibility to scan defined network-ranges for network-devices.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
