@@ -165,7 +165,7 @@
 
 ## Rust 
 
-- [containers/krunvm](https://github.com/containers/krunvm) - Manage lightweight VMs created from OCI images
+- [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
 - [project-akri/akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge
 
 ## Shell 
