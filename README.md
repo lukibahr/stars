@@ -35,6 +35,7 @@
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [smallstep/autocert](https://github.com/smallstep/autocert) - ⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [andiveloper/eventor](https://github.com/andiveloper/eventor) - eventor is an ultra lightweight proxy which turns your synchronous REST API into an asynchronous, event-driven microservice.
