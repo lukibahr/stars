@@ -139,6 +139,7 @@
 
 ## Makefile 
 
+- [chainguard-dev/wolfi-os](https://github.com/chainguard-dev/wolfi-os) - Main package repository for production Wolfi images
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 
 ## Others 
