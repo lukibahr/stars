@@ -163,6 +163,7 @@
 
 ## Python 
 
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [dm-drogeriemarkt/nesbi](https://github.com/dm-drogeriemarkt/nesbi) - A python-library which gives the possibility to scan defined network-ranges for network-devices.
