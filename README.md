@@ -17,6 +17,7 @@
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [Swift](#swift)
   - [TypeScript](#typescript)
 
 ## C 
@@ -204,6 +205,10 @@
 - [kubermatic/kubermatic-installer](https://github.com/kubermatic/kubermatic-installer) - Installation instructions for setting up a kubermatic seed cluster
 - [thockin/micro-demos](https://github.com/thockin/micro-demos) - Scripted automation for live CLI demos
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
+
+## Swift 
+
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 
 ## TypeScript 
 
