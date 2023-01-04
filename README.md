@@ -17,6 +17,7 @@
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [Smarty](#smarty)
   - [Swift](#swift)
   - [TypeScript](#typescript)
 
@@ -42,7 +43,7 @@
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
 - [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [smallstep/autocert](https://github.com/smallstep/autocert) - ⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers
@@ -205,6 +206,10 @@
 - [kubermatic/kubermatic-installer](https://github.com/kubermatic/kubermatic-installer) - Installation instructions for setting up a kubermatic seed cluster
 - [thockin/micro-demos](https://github.com/thockin/micro-demos) - Scripted automation for live CLI demos
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
+
+## Smarty 
+
+- [kubernauts/practical-kubernetes-problems](https://github.com/kubernauts/practical-kubernetes-problems) - Used by our Practical Kubernetes Trainings.
 
 ## Swift 
 
