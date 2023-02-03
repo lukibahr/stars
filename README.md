@@ -17,6 +17,7 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Shell](#shell)
   - [Smarty](#smarty)
   - [Swift](#swift)
@@ -37,6 +38,7 @@
 
 ## Go 
 
+- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud cost allocation models for Kubernetes workloads
 - [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
@@ -195,6 +197,10 @@
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
 - [project-akri/akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge
+
+## SCSS 
+
+- [jawache/principles-green](https://github.com/jawache/principles-green) - Website for Principles of Sustainable Software Engineering
 
 ## Shell 
 
