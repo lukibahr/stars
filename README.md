@@ -192,7 +192,7 @@
 - [dm-drogeriemarkt/nesbi](https://github.com/dm-drogeriemarkt/nesbi) - A python-library which gives the possibility to scan defined network-ranges for network-devices.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [brennerm/uptimerobot-operator](https://github.com/brennerm/uptimerobot-operator) - A Kubernetes operator that creates UptimeRobot monitors for your ingresses
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 - [ozel/DIY_particle_detector](https://github.com/ozel/DIY_particle_detector) - A mobile low-cost spectrometer for measuring radioactivity and the energy of ionising radiation like alpha particles and electrons
