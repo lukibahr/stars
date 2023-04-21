@@ -96,7 +96,7 @@
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
 - [rebuy-de/exporter-merger](https://github.com/rebuy-de/exporter-merger) - Merges Prometheus metrics from multiple sources
-- [redis/go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [rancher/opni](https://github.com/rancher/opni) - Multi Cluster Observability with AIOps
 - [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - A simple CLI for tracking your working time.
 - [akhilrex/hammond](https://github.com/akhilrex/hammond) - Self hosted vehicle and expense management system. Like Clarkson, but better
