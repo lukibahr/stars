@@ -16,6 +16,7 @@
   - [Others](#others)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
@@ -198,6 +199,10 @@
 - [ozel/DIY_particle_detector](https://github.com/ozel/DIY_particle_detector) - A mobile low-cost spectrometer for measuring radioactivity and the energy of ionising radiation like alpha particles and electrons
 - [hjacobs/flask-todo-app-example](https://github.com/hjacobs/flask-todo-app-example) - Example Flask app with OAuth and Kubernetes deployment manifests
 - [zalando-incubator/kopf](https://github.com/zalando-incubator/kopf) - A Python framework to write Kubernetes operators in just few lines of code.
+
+## Ruby 
+
+- [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
 
 ## Rust 
 
