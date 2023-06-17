@@ -153,9 +153,9 @@
 
 ## JavaScript 
 
-- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [rinormaloku/k8s-mastery](https://github.com/rinormaloku/k8s-mastery) - Repository for the article "Learn Kubernetes in Under 3 Hours"
 
 ## Jupyter Notebook 
@@ -227,7 +227,6 @@
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [didier-durand/microservices-on-cloud-kubernetes](https://github.com/didier-durand/microservices-on-cloud-kubernetes) - Microservices demo application on cloud-hosted Kubernetes cluster
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [kubermatic/kubermatic-installer](https://github.com/kubermatic/kubermatic-installer) - Installation instructions for setting up a kubermatic seed cluster
 - [thockin/micro-demos](https://github.com/thockin/micro-demos) - Scripted automation for live CLI demos
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
@@ -243,6 +242,7 @@
 ## TypeScript 
 
 - [Azure/awesome-azd](https://github.com/Azure/awesome-azd) - An awesome list that curates content (articles, videos, tutorials and docs) and templates (ready to use) for the Azure Developer CLI (`azd`). Plus a hosted azd-templates Gallery to simplify search & discovery
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 12 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
