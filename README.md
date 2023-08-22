@@ -187,6 +187,7 @@
 
 ## Others 
 
+- [runbear-io/awesome-runbook](https://github.com/runbear-io/awesome-runbook) - A curated list of awesome runbook documents, guidebooks, software and resources.
 - [Azure/AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
