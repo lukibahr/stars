@@ -239,7 +239,7 @@
 
 ## Shell 
 
-- [Andrew-Kang-G/docker-blue-green-runner](https://github.com/Andrew-Kang-G/docker-blue-green-runner) - Lightweight Zero-Downtime Docker-Compose-Based Blue-Green Deployment with Consul & wait-for-it : Samples in PHP, Java and Node.js
+- [Andrew-Kang-G/docker-blue-green-runner](https://github.com/Andrew-Kang-G/docker-blue-green-runner) - The Super Safe Zero-Downtime Blue-Green Deployment with Docker-Compose, Consul, Integrity Checking : Samples in PHP, Java and Node.js
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
