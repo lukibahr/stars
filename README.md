@@ -179,7 +179,6 @@
 
 ## Jupyter Notebook 
 
-- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 
 ## Makefile 
@@ -189,6 +188,7 @@
 
 ## Others 
 
+- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.
 - [runbear-io/awesome-runbook](https://github.com/runbear-io/awesome-runbook) - A curated list of awesome runbook documents, guidebooks, software and resources.
 - [Azure/AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
