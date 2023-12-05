@@ -272,6 +272,7 @@
 
 ## TypeScript 
 
+- [Tittoh/nextjs-tailwind-ts](https://github.com/Tittoh/nextjs-tailwind-ts) - A ready-to-use/ plug-n-play starter template for building fast and modern web applications with Next.js + Tailwind CSS + Typescript. Includes basic configurations and optimizations for optimal performance and developmer experience.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
