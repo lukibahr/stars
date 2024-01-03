@@ -47,6 +47,7 @@
 
 ## Go 
 
+- [ibuildthecloud/catgpt](https://github.com/ibuildthecloud/catgpt) - `catgpt` is a command-line tool that uses the OpenAI model to generate text based on user input
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [alxndr13/shrtnr](https://github.com/alxndr13/shrtnr) - shrtnr shortens your links or obfuscates them (shrtnr.click)
