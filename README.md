@@ -208,6 +208,9 @@
 
 ## Others 
 
+- [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
+- [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything
+- [shime/creative-commons-media](https://github.com/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
 - [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, energy, biodiversity and natural resources.
 - [runbear-io/awesome-runbook](https://github.com/runbear-io/awesome-runbook) - A curated list of awesome runbook documents, guidebooks, software and resources.
 - [Azure/AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
