@@ -48,6 +48,7 @@
 
 ## Go 
 
+- [ahmetb/kubectl-pods_on](https://github.com/ahmetb/kubectl-pods_on) - kubectl plugin to query Pods by Node names or selectors
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [ibuildthecloud/catgpt](https://github.com/ibuildthecloud/catgpt) - `catgpt` is a command-line tool that uses the OpenAI model to generate text based on user input
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
