@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Astro](#astro)
   - [C](#c)
   - [C++](#c++)
   - [Dart](#dart)
@@ -25,6 +26,10 @@
   - [Smarty](#smarty)
   - [Swift](#swift)
   - [TypeScript](#typescript)
+
+## Astro 
+
+- [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
 
 ## C 
 
@@ -180,7 +185,6 @@
 
 ## HTML 
 
-- [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
 - [themefisher/meghna-hugo](https://github.com/themefisher/meghna-hugo) - Meghna Hugo is a responsive, minimalist, lightweight, and fast loading one-page business theme built with HTML5/CSS3, Hugo, JavaScript, and JQuery.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
