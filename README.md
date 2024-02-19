@@ -53,6 +53,7 @@
 
 ## Go 
 
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [ahmetb/kubectl-pods_on](https://github.com/ahmetb/kubectl-pods_on) - kubectl plugin to query Pods by Node names or selectors
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [ibuildthecloud/catgpt](https://github.com/ibuildthecloud/catgpt) - `catgpt` is a command-line tool that uses the OpenAI model to generate text based on user input
@@ -214,6 +215,7 @@
 
 ## Others 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything
 - [shime/creative-commons-media](https://github.com/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
@@ -237,6 +239,7 @@
 
 ## Python 
 
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
@@ -272,7 +275,7 @@
 
 ## Shell 
 
-- [Andrew-Kang-G/docker-blue-green-runner](https://github.com/Andrew-Kang-G/docker-blue-green-runner) - Simple Zero-Downtime Blue-Green Deployment Starting from your Dockerfiles  : Samples in PHP, Java and Node.js
+- [Andrew-Kang-G/docker-blue-green-runner](https://github.com/Andrew-Kang-G/docker-blue-green-runner) - Never Dying Blue-Green Deployed Containers Starting from your Dockerfiles  : Samples in PHP, Java and Node.js
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
