@@ -62,7 +62,7 @@
 - [alxndr13/shrtnr](https://github.com/alxndr13/shrtnr) - shrtnr shortens your links or obfuscates them (shrtnr.click)
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [gonetx/httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool written in Go
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [Azure/karpenter-provider-azure](https://github.com/Azure/karpenter-provider-azure) - AKS Karpenter Provider
@@ -216,6 +216,7 @@
 
 ## Others 
 
+- [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage) - A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything
@@ -302,6 +303,7 @@
 
 ## TypeScript 
 
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [Tittoh/nextjs-tailwind-ts](https://github.com/Tittoh/nextjs-tailwind-ts) - A ready-to-use/ plug-n-play starter template for building fast and modern web applications with Next.js + Tailwind CSS + Typescript. Includes basic configurations and optimizations for optimal performance and developmer experience.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
