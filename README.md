@@ -112,7 +112,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [smallstep/autocert](https://github.com/smallstep/autocert) - ⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [koeningera/eventor](https://github.com/koeningera/eventor) - Learning Golang - eventor is an ultra lightweight proxy which turns your synchronous REST API into an asynchronous, event-driven microservice.
+- [akoeninger89/eventor](https://github.com/akoeninger89/eventor) - Learning Golang - eventor is an ultra lightweight proxy which turns your synchronous REST API into an asynchronous, event-driven microservice.
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
