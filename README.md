@@ -196,6 +196,7 @@
 
 ## HTML 
 
+- [Azure/AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 - [themefisher/meghna-hugo](https://github.com/themefisher/meghna-hugo) - Meghna Hugo is a responsive, minimalist, lightweight, and fast loading one-page business theme built with HTML5/CSS3, Hugo, JavaScript, and JQuery.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
@@ -233,7 +234,6 @@
 - [shime/creative-commons-media](https://github.com/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
 - [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.
 - [runbear-io/awesome-runbook](https://github.com/runbear-io/awesome-runbook) - A curated list of awesome runbook documents, guidebooks, software and resources.
-- [Azure/AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 - [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools
