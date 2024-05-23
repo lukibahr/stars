@@ -271,7 +271,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
@@ -311,7 +311,7 @@
 ## Shell 
 
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [Andrew-Kang-G/docker-blue-green-runner](https://github.com/Andrew-Kang-G/docker-blue-green-runner) - Docker Nginx Proxy Deployment Using Your Dockerfiles, with Examples in PHP, Java, and Node.js
+- [Andrew-Kang-G/docker-blue-green-runner](https://github.com/Andrew-Kang-G/docker-blue-green-runner) - From your source code to zero-downtime, high availability, and secure production deployment in no time, with examples in PHP, Java, and Node.js
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
