@@ -291,6 +291,7 @@
 
 ## Rust 
 
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
