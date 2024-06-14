@@ -16,6 +16,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Lua](#lua)
   - [Makefile](#makefile)
   - [Others](#others)
   - [PHP](#php)
@@ -228,6 +229,10 @@
 ## Jupyter Notebook 
 
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
+
+## Lua 
+
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 
 ## Makefile 
 
