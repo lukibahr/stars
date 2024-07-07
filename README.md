@@ -9,6 +9,7 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
+  - [CSS](#css)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
@@ -48,8 +49,13 @@
 
 ## C++ 
 
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+
+## CSS 
+
+- [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 
 ## Dart 
 
