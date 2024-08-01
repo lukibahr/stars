@@ -341,6 +341,7 @@
 
 ## Shell 
 
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [patternknife/docker-blue-green-runner](https://github.com/patternknife/docker-blue-green-runner) - From your source code to zero-downtime, high availability, and secure production deployment in no time, with examples in PHP, Java, and Node.js
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
