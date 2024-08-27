@@ -258,6 +258,7 @@
 
 ## Others 
 
+- [pulumiverse/awesome-pulumi](https://github.com/pulumiverse/awesome-pulumi) - Curated list of resources on Pulumi
 - [requestly/awesome-frontend-resources](https://github.com/requestly/awesome-frontend-resources) - A curated collection of awesome resources for frontend developers: tutorials, tools, libraries, design assets, and more! 🚀
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
@@ -291,6 +292,7 @@
 
 ## Python 
 
+- [powerfulseal/powerfulseal](https://github.com/powerfulseal/powerfulseal) - A powerful testing tool for Kubernetes clusters.
 - [safepay/sensor.fronius](https://github.com/safepay/sensor.fronius) - A Fronius Sensor for Home Assistant
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [xaitax/CVE-2024-6387_Check](https://github.com/xaitax/CVE-2024-6387_Check) - CVE-2024-6387_Check is a lightweight, efficient tool designed to identify servers running vulnerable versions of OpenSSH
