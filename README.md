@@ -371,6 +371,7 @@
 
 ## TypeScript 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
 - [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
