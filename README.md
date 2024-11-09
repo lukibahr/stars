@@ -72,6 +72,8 @@
 
 ## Go 
 
+- [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
+- [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -251,6 +253,7 @@
 
 ## Jupyter Notebook 
 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 
 ## Lua 
