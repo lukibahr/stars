@@ -28,6 +28,7 @@
   - [SCSS](#scss)
   - [Shell](#shell)
   - [Smarty](#smarty)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [TypeScript](#typescript)
 
@@ -253,7 +254,6 @@
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [codedthemes/mantis-free-react-admin-template](https://github.com/codedthemes/mantis-free-react-admin-template) - Mantis is React Dashboard Template having combine tone of 2 popular react component library - MUI and Ant Design principles.
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
@@ -396,6 +396,10 @@
 ## Smarty 
 
 - [kubernauts/practical-kubernetes-problems](https://github.com/kubernauts/practical-kubernetes-problems) - Used by our Practical Kubernetes Trainings.
+
+## Svelte 
+
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 
 ## Swift 
 
