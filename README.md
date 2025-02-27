@@ -26,6 +26,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [Smarty](#smarty)
   - [Svelte](#svelte)
@@ -384,6 +385,10 @@
 ## SCSS 
 
 - [jawache/principles-green](https://github.com/jawache/principles-green) - Website for Principles of Sustainable Software Engineering
+
+## Scala 
+
+- [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
 ## Shell 
 
