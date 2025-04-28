@@ -268,6 +268,7 @@
 
 ## JavaScript 
 
+- [prathammanocha/wordpress-mcp-server](https://github.com/prathammanocha/wordpress-mcp-server) - This is the most comprehensive wordpress mcp server. Includes functionality to perform CRUD operations on Users, Blogs, Categories and much more. Get specialised stats as well.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -298,6 +299,7 @@
 
 ## Others 
 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [pulumiverse/awesome-pulumi](https://github.com/pulumiverse/awesome-pulumi) - Curated list of resources on Pulumi
@@ -435,6 +437,7 @@
 
 ## TypeScript 
 
+- [FerencoVonMatterhorn/KO-Cast](https://github.com/FerencoVonMatterhorn/KO-Cast) - Wanted a streaming platform to share my screen searching for stupid stock options. Here it is 🚀
 - [hopps-app/hopps](https://github.com/hopps-app/hopps) - Hopps wird eine cloudbasierte Open Source Buchhaltungssoftware mit AI, damit Vereine mehr Zeit für ihre wesentlichen Ziele und Angebote haben und frustrierte Situationen mit der Buchhaltung der Vergangenheit angehören.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
