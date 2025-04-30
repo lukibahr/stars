@@ -81,6 +81,8 @@
 
 ## Go 
 
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
+- [dtennander/awsctx](https://github.com/dtennander/awsctx) - A cli tool to switch AWS profiles.
 - [yokecd/yoke](https://github.com/yokecd/yoke) - Kubernetes Package Management as Code; infrastructure as code, but actually.
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [prathyushnallamothu/swarmgo](https://github.com/prathyushnallamothu/swarmgo) - SwarmGo (agents-sdk-go) is a Go package that allows you to create AI agents capable of interacting, coordinating, and executing tasks. Inspired by OpenAI's Swarm framework, SwarmGo focuses on making agent coordination and execution lightweight, highly controllable, and easily testable.
