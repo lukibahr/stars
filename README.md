@@ -439,6 +439,7 @@
 
 ## TypeScript 
 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality.
 - [FerencoVonMatterhorn/KO-Cast](https://github.com/FerencoVonMatterhorn/KO-Cast) - Wanted a streaming platform to share my screen searching for stupid stock options. Here it is 🚀
 - [hopps-app/hopps](https://github.com/hopps-app/hopps) - Hopps wird eine cloudbasierte Open Source Buchhaltungssoftware mit AI, damit Vereine mehr Zeit für ihre wesentlichen Ziele und Angebote haben und frustrierte Situationen mit der Buchhaltung der Vergangenheit angehören.
