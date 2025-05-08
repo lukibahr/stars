@@ -81,6 +81,7 @@
 
 ## Go 
 
+- [kubepug/kubepug](https://github.com/kubepug/kubepug) - Kubernetes PreUpGrade (Checker)
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [dtennander/awsctx](https://github.com/dtennander/awsctx) - A cli tool to switch AWS profiles.
 - [yokecd/yoke](https://github.com/yokecd/yoke) - Kubernetes Package Management as Code; infrastructure as code, but actually.
