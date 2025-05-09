@@ -81,6 +81,7 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 - [kubepug/kubepug](https://github.com/kubepug/kubepug) - Kubernetes PreUpGrade (Checker)
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [dtennander/awsctx](https://github.com/dtennander/awsctx) - A cli tool to switch AWS profiles.
@@ -377,6 +378,7 @@
 
 ## Rust 
 
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [edera-dev/am-i-isolated](https://github.com/edera-dev/am-i-isolated) - Validate the isolation posture of your container environment.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
