@@ -450,7 +450,7 @@
 
 ## Swift 
 
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [alienator88/Viz](https://github.com/alienator88/Viz) - Capture text/QR Codes/Barcodes/Colors from screen snippets
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
