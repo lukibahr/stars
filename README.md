@@ -37,7 +37,7 @@
 
 ## Astro 
 
-- [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
+- [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - Complete list of free stuff for developer
 
 ## C 
 
@@ -85,6 +85,7 @@
 
 ## Go 
 
+- [mrueg/external-dns-netcup-webhook](https://github.com/mrueg/external-dns-netcup-webhook) - External-DNS Webhook Provider to manage Netcup Records
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
 - [flightctl/flightctl](https://github.com/flightctl/flightctl) - 
 - [openshift/microshift](https://github.com/openshift/microshift) - A small form factor OpenShift/Kubernetes optimized for edge computing
