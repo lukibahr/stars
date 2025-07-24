@@ -63,6 +63,7 @@
 
 ## CSS 
 
+- [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 
 ## Clojure 
