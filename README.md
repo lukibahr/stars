@@ -87,6 +87,7 @@
 
 ## Go 
 
+- [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [mrueg/external-dns-netcup-webhook](https://github.com/mrueg/external-dns-netcup-webhook) - External-DNS Webhook Provider to manage Netcup Records
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
 - [flightctl/flightctl](https://github.com/flightctl/flightctl) - 
@@ -286,6 +287,7 @@
 
 ## JavaScript 
 
+- [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [prathammanocha/wordpress-mcp-server](https://github.com/prathammanocha/wordpress-mcp-server) - This is the most comprehensive wordpress mcp server. Includes functionality to perform CRUD operations on Users, Blogs, Categories and much more. Get specialised stats as well.
@@ -402,6 +404,7 @@
 
 ## Rust 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [edera-dev/am-i-isolated](https://github.com/edera-dev/am-i-isolated) - Validate the isolation posture of your container environment.
