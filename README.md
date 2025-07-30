@@ -87,6 +87,7 @@
 
 ## Go 
 
+- [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) - 🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party.
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [mrueg/external-dns-netcup-webhook](https://github.com/mrueg/external-dns-netcup-webhook) - External-DNS Webhook Provider to manage Netcup Records
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
@@ -442,7 +443,7 @@
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [patternhelloworld/docker-blue-green-runner](https://github.com/patternhelloworld/docker-blue-green-runner) - By simply configuring the .env file, a simple and safe Blue-Green Deployment is instantly set up.
-- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
+- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you or your team did on the last working day
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
