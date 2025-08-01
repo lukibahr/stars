@@ -473,6 +473,7 @@
 
 ## TypeScript 
 
+- [docdyhr/mcp-wordpress](https://github.com/docdyhr/mcp-wordpress) - MCP Server to manage a Wordpress CMS system.
 - [lukibahr/fossflow](https://github.com/lukibahr/fossflow) - Make beautiful isometric infrastructure diagrams
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
