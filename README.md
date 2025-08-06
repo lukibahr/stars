@@ -147,7 +147,7 @@
 - [alxndr13/shrtnr](https://github.com/alxndr13/shrtnr) - shrtnr shortens your links or obfuscates them (shrtnr.click)
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [gonetx/httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool written in Go
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [Azure/karpenter-provider-azure](https://github.com/Azure/karpenter-provider-azure) - AKS Karpenter Provider
