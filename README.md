@@ -87,6 +87,7 @@
 
 ## Go 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) - 🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party.
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [mrueg/external-dns-netcup-webhook](https://github.com/mrueg/external-dns-netcup-webhook) - External-DNS Webhook Provider to manage Netcup Records
