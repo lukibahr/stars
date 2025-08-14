@@ -309,7 +309,7 @@
 
 ## Jupyter Notebook 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 
 ## Lua 
