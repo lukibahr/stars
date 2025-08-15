@@ -409,6 +409,7 @@
 
 ## Rust 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
