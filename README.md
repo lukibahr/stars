@@ -117,7 +117,7 @@
 - [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - Flux Operator is a Kubernetes controller for managing the lifecycle of Flux CD
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [ahmetb/kubectl-foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel (similar to GNU xargs+parallel)
-- [maxlaverse/terraform-provider-bitwarden](https://github.com/maxlaverse/terraform-provider-bitwarden) - Terraform Bitwarden provider to read, create, or update logins, secure notes, folders, org-collections in your Bitwarden & Vaultwarden Vaults
+- [maxlaverse/terraform-provider-bitwarden](https://github.com/maxlaverse/terraform-provider-bitwarden) - Terraform Bitwarden provider to read, create, or update secrets, logins, secure notes, folders, organisation collections in your Bitwarden & Vaultwarden Vaults.
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [haproxytech/hcl-converter](https://github.com/haproxytech/hcl-converter) - 
