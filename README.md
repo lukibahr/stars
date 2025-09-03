@@ -419,6 +419,7 @@
 
 ## Rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
