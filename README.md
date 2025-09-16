@@ -36,6 +36,7 @@
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [TypeScript](#typescript)
+  - [VBScript](#vbscript)
 
 ## Astro 
 
@@ -380,6 +381,7 @@
 
 ## Python 
 
+- [omriher/CapTipper](https://github.com/omriher/CapTipper) - Malicious HTTP traffic explorer
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
@@ -539,6 +541,10 @@
 - [Azure/API-Portal](https://github.com/Azure/API-Portal) - API Portal lets you create and publish a customized site with API documentation, for free and without writing any code.
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
+
+## VBScript 
+
+- [Da2dalus/The-MALWARE-Repo](https://github.com/Da2dalus/The-MALWARE-Repo) - A repository full of malware samples.
 
 
 ## License
