@@ -92,6 +92,7 @@
 
 ## Go 
 
+- [Azure/aks-mcp](https://github.com/Azure/aks-mcp) - A Model Context Protocol (MCP) server that enables AI assistants to interact with AKS clusters. It serves as a bridge between AI tools (like Claude, Cursor, and GitHub Copilot) and AKS.
 - [notapipeline/bwv](https://github.com/notapipeline/bwv) - Bitwarden credentials over HTTP
 - [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
