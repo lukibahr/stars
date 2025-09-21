@@ -116,7 +116,7 @@
 - [yokecd/yoke](https://github.com/yokecd/yoke) - Kubernetes Package Management as Code; infrastructure as code, but actually.
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [prathyushnallamothu/swarmgo](https://github.com/prathyushnallamothu/swarmgo) - SwarmGo (agents-sdk-go) is a Go package that allows you to create AI agents capable of interacting, coordinating, and executing tasks. Inspired by OpenAI's Swarm framework, SwarmGo focuses on making agent coordination and execution lightweight, highly controllable, and easily testable.
-- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kubernetes Resource Orchestrator
+- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator
 - [grafana/beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of web applications and network metrics
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
@@ -177,7 +177,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [inovex/CalendarSync](https://github.com/inovex/CalendarSync) - Stateless CLI tool to sync calendars across different calendaring systems.
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images!
 - [raffis/gitops-zombies](https://github.com/raffis/gitops-zombies) - Identify kubernetes resources which are not managed by GitOps
