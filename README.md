@@ -92,6 +92,8 @@
 
 ## Go 
 
+- [giantswarm/muster](https://github.com/giantswarm/muster) - MCP tool management and workflow proxy
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira
 - [Azure/aks-mcp](https://github.com/Azure/aks-mcp) - A Model Context Protocol (MCP) server that enables AI assistants to interact with AKS clusters. It serves as a bridge between AI tools (like Claude, Cursor, and GitHub Copilot) and AKS.
 - [notapipeline/bwv](https://github.com/notapipeline/bwv) - Bitwarden credentials over HTTP
 - [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
@@ -302,6 +304,7 @@
 
 ## JavaScript 
 
+- [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
 - [docdyhr/mcp-wordpress](https://github.com/docdyhr/mcp-wordpress) - MCP Server to manage a Wordpress CMS system.
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -384,6 +387,7 @@
 
 ## Python 
 
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [lfasci/homeassistant-prometheus-query](https://github.com/lfasci/homeassistant-prometheus-query) - Inspired from homeassitant Command line Sensor this sensor take values from Prometheus metrics using PromQL query
