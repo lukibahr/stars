@@ -92,6 +92,8 @@
 
 ## Go 
 
+- [netr0m/az-pim-cli](https://github.com/netr0m/az-pim-cli) - A utility to list and activate Azure Entra ID Privileged Identity Management roles from the CLI
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [giantswarm/muster](https://github.com/giantswarm/muster) - MCP tool management and workflow proxy
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira
 - [Azure/aks-mcp](https://github.com/Azure/aks-mcp) - A Model Context Protocol (MCP) server that enables AI assistants to interact with AKS clusters. It serves as a bridge between AI tools (like Claude, Cursor, and GitHub Copilot) and AKS.
