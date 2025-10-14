@@ -69,7 +69,6 @@
 ## CSS 
 
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 
@@ -310,6 +309,7 @@
 
 - [wafcontrol/wafcontrol](https://github.com/wafcontrol/wafcontrol) - OWASP WafControl Project
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
+- [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
 - [docdyhr/mcp-wordpress](https://github.com/docdyhr/mcp-wordpress) - MCP Server to manage a Wordpress CMS system.
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -443,6 +443,7 @@
 
 ## Rust 
 
+- [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
