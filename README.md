@@ -93,6 +93,9 @@
 
 ## Go 
 
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [giantswarm/mcp-opsgenie](https://github.com/giantswarm/mcp-opsgenie) - Model Context Protocol (MCP) server for OpsGenie
+- [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [go-spatial/tegola](https://github.com/go-spatial/tegola) - Tegola is a Mapbox Vector Tile server written in Go
 - [netr0m/az-pim-cli](https://github.com/netr0m/az-pim-cli) - A utility to list and activate Azure Entra ID Privileged Identity Management roles from the CLI
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
