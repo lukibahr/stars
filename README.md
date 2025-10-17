@@ -93,6 +93,7 @@
 
 ## Go 
 
+- [mrjosh/helm-ls](https://github.com/mrjosh/helm-ls) - ⎈ Language server for Helm ⎈
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [giantswarm/mcp-opsgenie](https://github.com/giantswarm/mcp-opsgenie) - Model Context Protocol (MCP) server for OpsGenie
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
