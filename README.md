@@ -404,6 +404,7 @@
 
 ## Python 
 
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [mrzepa/unifi2netbox](https://github.com/mrzepa/unifi2netbox) - Scrape Unifi for devices and adds them to Netbox.
 - [cisco-ai-defense/mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) - Scan MCP servers for potential threats & security findings.
 - [ubaumann/mkdocs-mcp](https://github.com/ubaumann/mkdocs-mcp) - MkDocs Plugin to serve MCP
