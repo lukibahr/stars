@@ -51,7 +51,6 @@
 
 ## C# # 
 
-- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [aled/fakemail](https://github.com/aled/fakemail) - https://fakemail.stream - A fake SMTP server for software integration testing
@@ -415,6 +414,7 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [OWASP/Nest](https://github.com/OWASP/Nest) - Your gateway to OWASP. Discover, engage, and help shape the future!
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [sessl3r/windhager](https://github.com/sessl3r/windhager) - Windhager BioWin102 + InfoWin Touch
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More
 - [mrzepa/unifi2netbox](https://github.com/mrzepa/unifi2netbox) - Scrape Unifi for devices and adds them to Netbox.
