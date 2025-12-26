@@ -80,7 +80,7 @@
 
 ## Crystal 
 
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
 
 ## Dart 
 
@@ -406,6 +406,7 @@
 
 ## Perl 
 
+- [hn/reolink-camera](https://github.com/hn/reolink-camera) - Reolink RLC-410-5MP IP camera reverse engineered technical details
 - [Cyclenerd/google-cloud-compute-machine-types](https://github.com/Cyclenerd/google-cloud-compute-machine-types) - ☁️  Choose the optimal Google Compute Engine machine type or instance in the many Google Cloud Platform regions
 
 ## PowerShell 
