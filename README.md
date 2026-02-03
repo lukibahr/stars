@@ -159,7 +159,7 @@
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [haproxytech/hcl-converter](https://github.com/haproxytech/hcl-converter) - 
 - [Azure/aks-node-viewer](https://github.com/Azure/aks-node-viewer) - Fork of eks-node-viewer, large thanks to the aws/karpenter maintainers!
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes.
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
@@ -635,7 +635,7 @@
 - [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 - [Azure/awesome-azd](https://github.com/Azure/awesome-azd) - An awesome list that curates content (articles, videos, tutorials and docs) and templates (ready to use) for the Azure Developer CLI (`azd`). Plus a hosted azd-templates Gallery to simplify search & discovery
 - [Azure/AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
