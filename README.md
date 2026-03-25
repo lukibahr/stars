@@ -221,7 +221,6 @@
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images!
 - [raffis/gitops-zombies](https://github.com/raffis/gitops-zombies) - Identify kubernetes resources which are not managed by GitOps
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
-- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - [DEPRECATED] CHANGELOG generator implemented in Go (Golang) -&gt; Use now the actively maintained git-cliff
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
@@ -576,6 +575,7 @@
 
 ## Smarty 
 
+- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
 - [kubernauts/practical-kubernetes-problems](https://github.com/kubernauts/practical-kubernetes-problems) - Used by our Practical Kubernetes Trainings.
 
 ## Svelte 
