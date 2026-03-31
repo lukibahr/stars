@@ -65,7 +65,7 @@
 ## C++ 
 
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -123,6 +123,7 @@
 - [mrjosh/helm-ls](https://github.com/mrjosh/helm-ls) - ⎈ Language server for Helm ⎈
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [giantswarm/mcp-opsgenie](https://github.com/giantswarm/mcp-opsgenie) - Model Context Protocol (MCP) server for OpsGenie
+- [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [go-spatial/tegola](https://github.com/go-spatial/tegola) - Tegola is a Mapbox Vector Tile server written in Go
 - [netr0m/az-pim-cli](https://github.com/netr0m/az-pim-cli) - A utility to list and activate Azure Entra ID Privileged Identity Management roles from the CLI
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
@@ -350,7 +351,6 @@
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [prathammanocha/wordpress-mcp-server](https://github.com/prathammanocha/wordpress-mcp-server) - This is the most comprehensive wordpress mcp server. Includes functionality to perform CRUD operations on Users, Blogs, Categories and much more. Get specialised stats as well.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [codedthemes/mantis-free-react-admin-template](https://github.com/codedthemes/mantis-free-react-admin-template) - Mantis is React Dashboard Template having combine tone of 2 popular react component library - MUI and Ant Design principles.
@@ -388,6 +388,7 @@
 
 ## Others 
 
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
 - [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - Collection of resources about Virtualization
@@ -456,7 +457,6 @@
 - [ubaumann/mkdocs-mcp](https://github.com/ubaumann/mkdocs-mcp) - MkDocs Plugin to serve MCP
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
-- [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -502,6 +502,7 @@
 
 ## Ruby 
 
+- [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes
 - [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
@@ -589,10 +590,13 @@
 - [alienator88/Viz](https://github.com/alienator88/Viz) - Capture text/QR Codes/Barcodes/Colors from screen snippets
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 
 ## TypeScript 
 
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [Skolaczk/next-starter](https://github.com/Skolaczk/next-starter) - A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, Eslint, Stripe, testing tools and more. Jumpstart your project with efficiency and style.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - Open-source drag-and-drop rack layout designer
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
