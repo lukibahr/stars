@@ -101,6 +101,7 @@
 
 ## Go 
 
+- [giantswarm/klaus](https://github.com/giantswarm/klaus) - A Go wrapper around claude-code to orchestrate AI agents within Kubernetes
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [agentregistry-dev/agentregistry](https://github.com/agentregistry-dev/agentregistry) - Fast-track AI innovation with a centralized, trusted, curated registry
