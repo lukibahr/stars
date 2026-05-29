@@ -12,6 +12,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [Crystal](#crystal)
+  - [DIGITAL Command Language](#digital-command-language)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
@@ -90,6 +91,10 @@
 ## Crystal 
 
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
+
+## DIGITAL Command Language 
+
+- [fire1ce/eicar-standard-antivirus-test-files](https://github.com/fire1ce/eicar-standard-antivirus-test-files) - eicar standard antivirus test files
 
 ## Dart 
 
@@ -418,6 +423,7 @@
 
 ## Others 
 
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [EdyTheCow/docker-media-center](https://github.com/EdyTheCow/docker-media-center) - Docker Media Center running Jellyfin under Traefik, fully automated and production ready solution
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
@@ -642,6 +648,7 @@
 
 ## TypeScript 
 
+- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
