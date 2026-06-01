@@ -103,6 +103,7 @@
 
 ## Dockerfile 
 
+- [opencloud-eu/container-clamav-icap](https://github.com/opencloud-eu/container-clamav-icap) - Container for ClamAV via ICAP
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 - [madnuttah/unbound-docker](https://github.com/madnuttah/unbound-docker) - 🛡️ This distroless Unbound Docker image is based on Alpine Linux with focus on security, privacy, performance and a small image size. And with Pi-hole in mind.
 - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) - 
@@ -664,7 +665,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Skolaczk/next-starter](https://github.com/Skolaczk/next-starter) - A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, Eslint, Stripe, testing tools and more. Jumpstart your project with efficiency and style.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - drag-and-drop rack layout designer
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
