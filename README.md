@@ -746,7 +746,6 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [Azure/API-Portal](https://github.com/Azure/API-Portal) - API Portal lets you create and publish a customized site with API documentation, for free and without writing any code.
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 
