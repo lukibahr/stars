@@ -6,6 +6,7 @@
 ## Contents
 
   - [Astro](#astro)
+  - [Bicep](#bicep)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -46,6 +47,10 @@
 
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - Complete list of free stuff for developer
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
+
+## Bicep 
+
+- [Azure/AKS-Landing-Zone-Accelerator](https://github.com/Azure/AKS-Landing-Zone-Accelerator) - Official repository for the AKS Landing Zone Accelerator program
 
 ## C 
 
