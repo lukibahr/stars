@@ -117,6 +117,7 @@
 
 ## Go 
 
+- [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) - Live validation proxy tool for testing web app vulnerabilities
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
@@ -170,7 +171,7 @@
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [sklinkert/go-ddd](https://github.com/sklinkert/go-ddd) - Opinionated Domain Driven Design Template for Go
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) - 🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party.
@@ -495,6 +496,7 @@
 
 ## Python 
 
+- [ipa-lab/hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - Helping Ethical Hackers use LLMs in 50 Lines of Code or less..
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -586,6 +588,7 @@
 
 ## Rust 
 
+- [JoasASantos/NeuroSploit](https://github.com/JoasASantos/NeuroSploit) - NeuroSploit is an advanced, AI-powered penetration testing framework designed to automate and augment various aspects of offensive security operations. Leveraging the capabilities of large language models (LLMs).
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [matthart1983/netwatch](https://github.com/matthart1983/netwatch) - Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
