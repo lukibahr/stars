@@ -145,7 +145,7 @@
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server & Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [traefik/ingress-nginx-migration](https://github.com/traefik/ingress-nginx-migration) - Ingress Nginx Migration
