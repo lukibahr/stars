@@ -521,7 +521,7 @@
 - [CompassSecurity/conkeyscan](https://github.com/CompassSecurity/conkeyscan) - A Pentesters Confluence Keyword Scanner
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
-- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [clemcer/LoggiFly](https://github.com/clemcer/LoggiFly) - Get Alerts from your Docker Container Logs
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
@@ -601,6 +601,8 @@
 
 ## Rust 
 
+- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
+- [wm94i/Work-Review](https://github.com/wm94i/Work-Review) - Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [Stanford-Trinity/ARTEMIS](https://github.com/Stanford-Trinity/ARTEMIS) - 
 - [JoasASantos/NeuroSploit](https://github.com/JoasASantos/NeuroSploit) - NeuroSploit is an advanced, AI-powered penetration testing framework designed to automate and augment various aspects of offensive security operations.
