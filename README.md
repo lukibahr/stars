@@ -614,6 +614,7 @@
 
 ## Rust 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
