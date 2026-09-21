@@ -91,6 +91,7 @@
 
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+- [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 
 ## Clojure 
@@ -379,7 +380,6 @@
 - [romanzdk/s3-web-browser](https://github.com/romanzdk/s3-web-browser) - A Flask-based S3 Browser for navigating AWS S3 buckets and files with secure, temporary URL generation for object sharing.
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
 - [angelobattaglia/flask_sqlite_boilerplate](https://github.com/angelobattaglia/flask_sqlite_boilerplate) - Boilerplate for an application written in Flask and SQLite
-- [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using ArgoCD in Azure Kubernetes Service with multi remote clusters deployments.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
