@@ -418,6 +418,7 @@
 - [docdyhr/mcp-wordpress](https://github.com/docdyhr/mcp-wordpress) - MCP Server to manage a Wordpress CMS system.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [prathammanocha/wordpress-mcp-server](https://github.com/prathammanocha/wordpress-mcp-server) - This is the most comprehensive wordpress mcp server. Includes functionality to perform CRUD operations on Users, Blogs, Categories and much more. Get specialised stats as well.
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
@@ -525,7 +526,7 @@
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [knavesec/CredMaster](https://github.com/knavesec/CredMaster) - Refactored & improved CredKing password spraying tool, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
 - [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp) - MCP servers & Graph API for the UniFi suite of applications, Network, Protect, and Access
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
 - [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.
@@ -802,7 +803,6 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality.
 - [FerencoVonMatterhorn/KO-Cast](https://github.com/FerencoVonMatterhorn/KO-Cast) - Wanted a streaming platform to share my screen searching for stupid stock options. Here it is 🚀
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [hopps-app/hopps](https://github.com/hopps-app/hopps) - Hopps ist eine cloudbasierte Open Source Buchhaltungssoftware mit AI, damit Vereine mehr Zeit für ihre wesentlichen Ziele und Angebote haben und frustrierte Situationen mit der Buchhaltung der Vergangenheit angehören.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
