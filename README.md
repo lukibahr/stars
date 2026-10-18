@@ -121,6 +121,7 @@
 
 ## Go 
 
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 - [projectdiscovery/notify](https://github.com/projectdiscovery/notify) - Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet
@@ -457,6 +458,7 @@
 
 ## Others 
 
+- [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 Yet another collection of wordlists
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
@@ -515,6 +517,10 @@
 
 ## Python 
 
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
+- [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
+- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
@@ -618,6 +624,7 @@
 
 ## Ruby 
 
+- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes
 - [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
