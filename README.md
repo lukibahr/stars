@@ -496,7 +496,7 @@
 ## PHP 
 
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open-source framework for building sovereign security, compliance and fraud prevention applications. Detect account takeovers, cyberfraud and business logic abuse inside your product.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a framework for building sovereign security, compliance and fraud prevention applications. Detect account takeovers, cyberfraud and business logic abuse inside your product.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
@@ -517,7 +517,7 @@
 ## Python 
 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [murrez/php2shell](https://github.com/murrez/php2shell) - PoC for CVE-2026-109618 / CVE-2026-109619 (php2shell): PHP session.upload_progress UAF. check = GET fingerprint + bulk JSONL; exploit = smart 618 (multi-path trigger) or 619 with --call. Stdlib only.
+- [murrez/php2shell](https://github.com/murrez/php2shell) - php2shell: Advanced hybrid exploit framework for CVE-2026-109618, CVE-2026-109619 & CVE-2026-115560. Features Auto-LFI parameter discovery, SAPI profiling, OOM fuzzing calibration, and FPM worker pinning. Stdlib only.
 - [pentestershell/php2shellbt](https://github.com/pentestershell/php2shellbt) - Python scanner for CVE-2026-109618, CVE-2026-109619 and the php2shell session chains (handler mismatch + LFI). No external dependencies.
 - [UmairBaig8/okf-generator](https://github.com/UmairBaig8/okf-generator) - OKF v0.1 knowledge bundle generator — Claude skill + OpenCode integration
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
