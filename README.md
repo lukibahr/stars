@@ -122,6 +122,7 @@
 
 ## Go 
 
+- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 - [projectdiscovery/notify](https://github.com/projectdiscovery/notify) - Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
@@ -379,6 +380,7 @@
 
 ## HTML 
 
+- [MengTo/Skills](https://github.com/MengTo/Skills) - Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents
 - [romanzdk/s3-web-browser](https://github.com/romanzdk/s3-web-browser) - A Flask-based S3 Browser for navigating AWS S3 buckets and files with secure, temporary URL generation for object sharing.
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
 - [angelobattaglia/flask_sqlite_boilerplate](https://github.com/angelobattaglia/flask_sqlite_boilerplate) - Boilerplate for an application written in Flask and SQLite
@@ -821,7 +823,7 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality.
 - [FerencoVonMatterhorn/KO-Cast](https://github.com/FerencoVonMatterhorn/KO-Cast) - Wanted a streaming platform to share my screen searching for stupid stock options. Here it is 🚀
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Reference Servers
 - [hopps-app/hopps](https://github.com/hopps-app/hopps) - Hopps ist eine cloudbasierte Open Source Buchhaltungssoftware mit AI, damit Vereine mehr Zeit für ihre wesentlichen Ziele und Angebote haben und frustrierte Situationen mit der Buchhaltung der Vergangenheit angehören.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
